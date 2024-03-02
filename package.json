@@ -1,0 +1,24 @@
+{
+  "name": "genetic-algorithm-for-feature-selection",
+  "version": "1.0.0",
+  "description": "This Python code implements a genetic algorithm (GA) for feature selection. Feature selection is an important step in machine learning where irrelevant or redundant features are identified and removed from the dataset, improving model performance and reducing computational complexity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uoaw/Genetic-Algorithm-for-Feature-Selection"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "numpy": "^1.21.3",
+    "scikit-learn": "^0.24.2",
+    "matplotlib": "^3.4.3",
+    "random-famous-library1": "^1.0.0",
+    "random-famous-library2": "^2.0.0",
+    "symbolic-regression-with-genetic-programming": "^1.0.0"
+  }
+}
